@@ -2,3 +2,15 @@ h1 {
   text-align: center;
   font-variant: initial;
 }
+h2 {
+  text-align: center;
+  font-variant: inherit;
+}
+h3 {
+  text-align: center;
+  font-variant: inherit;
+}
+p {
+  text-align: center;
+  font-variant: inherit;
+}
